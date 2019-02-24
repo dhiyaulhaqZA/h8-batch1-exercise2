@@ -2,3 +2,5 @@
 Hacktiv8 Javascript Development class - Batch 1 Yogyakarta
 <br />
 Aplikasi penghitung profit trading untuk stock market trader
+<br />
+Dilengkapi dengan input validasi
